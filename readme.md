@@ -1,6 +1,6 @@
 # Yu-Gi-Oh | Jo-ken-po Edition
 
-Esse projeto é a entrega de um desafio do módulo de "Desenvolvendo suas Primeiras Páginas com HTML e CSS" na **[Digital Innovation One](dio.me)**.
+Esse projeto é a entrega de um desafio do módulo de "Dando os seus Primeiros Passos com JavaScript" na **[Digital Innovation One](dio.me)**.
 
 ### Tecnologias Utilizadas
 
